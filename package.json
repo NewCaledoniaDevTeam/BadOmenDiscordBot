@@ -1,0 +1,21 @@
+{
+  "name": "BadOmenDiscordBot",
+  "version": "0.0.1",
+  "description": "What am I about?",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "@discordjs/uws": "^10.149.0",
+    "discord.js": "^11.6.4",
+    "express": "^4.17.1"
+  },
+  "engines": {
+    "node": "9.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node"
+  ]
+}
